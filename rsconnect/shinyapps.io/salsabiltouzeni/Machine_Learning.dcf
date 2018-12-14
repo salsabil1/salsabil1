@@ -1,0 +1,13 @@
+name: Machine_Learning
+title: Machine_Learning
+username:
+account: salsabiltouzeni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 607059
+bundleId: 1746353
+url: https://salsabiltouzeni.shinyapps.io/Machine_Learning/
+when: 1544121400.15484
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _site.yml|base données filgrastim 5 (2).lnk|base données filgrastim 5.sav|base.xls

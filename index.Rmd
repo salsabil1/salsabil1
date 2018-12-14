@@ -1,0 +1,81 @@
+---
+---
+
+<script>
+<head>
+    <!--FACEBOOK-->
+    <meta property="og:image" content="https://malouche.github.io/netimage.png">
+    <meta property="og:image:type" content="https://malouche.github.io/netimage.png">
+    <meta property="og:image:width" content="1024">
+    <meta property="og:image:height" content="1024">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://malouche.github.io"/>
+    <meta property="og:title" content="Dhafer Malouche" />
+    <meta property="og:description" content="My personal website." />
+    <meta name="google-site-verification" content="ah8ze10UddyhgpgPuOEa6dLdLS6d7P4D7ZtVNAiXi4k" />
+
+<head>
+</script>
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+
+<img src="images/dhafer.png" style="float: right; width:15%; border:1px solid; margin-right: 20px" align="left">
+
+
+  
+# {.tabset .tabset-fade .tabset-pills}
+
+## About me
+
+
+I'm Dhafer Malouche, a Professor of Statistics at the [University of Carthage](http://www.ucar.rnu.tn/En/). I  teach at the [*Ecole Supérieure de la Statistique et de l'Analyse de l'Information*](http://www.essai.rnu.tn/accueil.htm)  several data science courses: Big Data, Computing tools for Statistics such as `R` and Python, Bayesian Statistics and Time Series. 
+
+I’m especially interested in Machine Learning, Statistical Modelling  and Data Visualization.   For my work, I use every day `R`, `Python`, `H2O` and `Spark`. I will be sharing, in this website,  many `R` and `Python` codes where I show how you can use these softwares to solve  Machine Learning, Statistical Modelling or Data Visualization problems. Your feedback, comments and questions are then very welcome. 
+
+You will also find here  my CV,  links to my papers regarding to several topics and collaborations, slides of my talks and I will be soon  publishing my `R` packages. 
+
+ 
+
+So feel free to [contact me](mailto:dhafer.malouche@yale.edu) 
+
+
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmalouche.github.io&width=163&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=874215545998179" width="163" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+
+**Municipal Elections, Tunisia May 2018**
+<iframe src="https://malouche.github.io/Dashboards/municipal2018Tunisia.html" height="500" width="100%" frameBorder="0"></iframe>
+
+
+---
+
+
+## Forthcoming papers 
+
+1. Olfa Saidi, Martin O''Flaherty, Nada Zoghlami, Dhafer MALOUCHE, Simon Capewell, Julia Alison Critchley, Piotr Bandosz, Habiba Ben Romdhane and Maria Guzman-Castillo *Comparing strategies to prevent stroke and ischemic heart disease in the Tunisian population: Markov modeling approach using a comprehensive sensitivity analysis algorithm* accepted for publication at the Computational and Mathematical Methods in Medicine.
+
+2. Hajer Khlaifi, Dan Istrate, Jacques Demongeot, Dhafer Malouche *Swallowing Sound Recognition at Home Using GMM* accepted for publication at Innovation and Research in BioMedical Engineering
+
+3. Hela Jeddi and Dhafer Malouche  *Studying wage gap between men and women in Tunisia*, accpeted for publication at the Feminist Economics
+
+
+**Daily views in Netflix from 01/2000 to 12/2005**
+<iframe src="https://malouche.github.io/Dashboards/ts_netflix.html" height="500" width="100%" frameBorder="0"></iframe>
+
+
+
+---
+
+
+## Most recent published paper 
+
++ Ibtihel Rebhi and Dhafer Malouche,  *An Approach for External Preference Mapping Improvement by Denoising Consumer Rating Data*, Published in [International Journal of Advanced Computer Science and Applications(IJACSA), Volume 8 Issue 12](http://thesai.org/Publications/ViewPaper?Volume=8&Issue=12&Code=IJACSA&SerialNo=66'>Article)
+
+
+---
+
+
+
+
+

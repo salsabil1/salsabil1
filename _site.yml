@@ -1,0 +1,54 @@
+name: Dhafer Malouche
+output_dir: '.'
+navbar:
+  title: Dhafer Malouche
+  type: inverse
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Teaching
+    menu: 
+      - text: Bayesian Statistics
+        href: https://malouche.github.io/BayesianStatistics/index.html
+      - text: Big Data
+        href: https://malouche.github.io/bigdata2018/index.html
+      - text: Data Mining (in French)
+      - text: Times Series (in French)
+  - text: R/Python Developers 
+    menu:
+      - text: Notebooks
+        href: https://malouche.github.io/notebooks/index.html
+      - text: How to
+        href: https://malouche.github.io/howto/index.html
+      - text: R packages/shiny/Dashboards
+        href: https://malouche.github.io/softAndDash/.
+  - text: Talks
+    href: https://malouche.github.io/slidesOftalks/index.html
+  - text: My CV
+    href: dhafermalouche_cvOct2018.html
+  - text: Data
+    menu:
+      - text: Election Data
+        href: https://malouche.github.io/ElectionData/index.html
+      - text: G-Econ Data
+        href: https://malouche.github.io/gecon/index.html
+      - text: Other Datasets
+        href:  https://malouche.github.io/data_in_class/index.html
+  right:
+  - icon: fa-envelope fa-lg
+    href: contact.html
+  - icon: fa-github fa-lg
+    href: http://github.com/malouche
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/dhafer-malouche-b54629b/
+  - icon: fa-facebook fa-lg
+    href: https://www.facebook.com/dhafer.malouche
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+
